@@ -2,7 +2,7 @@ import menu from '../assets/menu.png';
 import back from '../assets/dropdown_icon.png';
 import banner from '../assets/homeimg.jpg'
 import shine from '../assets/star.png'
-import cleaning from "../assets/cleaning.png"
+import cleaning from "../assets/Cleaning.png"
 
 export const assets = {
     menu,
